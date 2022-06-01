@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTDP4OgYfFDLMJ2R/MY38anmxLzrc1dxmG9/riP7gYai1kfS3DEh9mjpBaif4HTJSEM9xV97jddaCjUpHwaNjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fenym\\OneDrive\\Almacén personal\\Documentos\\Informatica\\5to de informatica\\Desarrollo De Aplicaciones\\C#\\Practica-4\\Galeria De Imagenes\\Galeria De Imagenes\\Galeria De Imagenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fenym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\fenym\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\fenym\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\fenym\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

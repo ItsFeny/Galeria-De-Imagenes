@@ -1,0 +1,57 @@
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.exe
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.deps.json
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.json
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.dev.json
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\ref\Galeria De Imagenes.dll
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csprojAssemblyReference.cache
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Form1.resources
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Properties.Resources.resources
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.GenerateResource.cache
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfoInputs.cache
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfo.cs
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\ref\Galeria De Imagenes.dll
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\ralfe\source\repos\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.genruntimeconfig.cache
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.exe
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.deps.json
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.json
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.dev.json
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\ref\Galeria De Imagenes.dll
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csprojAssemblyReference.cache
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Form1.resources
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Properties.Resources.resources
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.GenerateResource.cache
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfoInputs.cache
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfo.cs
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\ref\Galeria De Imagenes.dll
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\ralfe\Desktop\Estudios\5to de informatica\desarrollo de apps\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.genruntimeconfig.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.exe
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.deps.json
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.json
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.runtimeconfig.dev.json
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\bin\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.AssemblyReference.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Form1.resources
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria_De_Imagenes.Properties.Resources.resources
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.GenerateResource.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfoInputs.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.AssemblyInfo.cs
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.dll
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\refint\Galeria De Imagenes.dll
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.pdb
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\Galeria De Imagenes.genruntimeconfig.cache
+C:\Users\fenym\OneDrive\Almacén personal\Documentos\Informatica\5to de informatica\Desarrollo De Aplicaciones\C#\Practica-4\Galeria De Imagenes\Galeria De Imagenes\obj\Debug\net5.0-windows\ref\Galeria De Imagenes.dll
